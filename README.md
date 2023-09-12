@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalhanif12&show_icons=true&locale=en&layout=compact" alt="faisalhanif12" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalhanif12&" alt="faisalhanif12"/>
+<img align="center" src="https://camo.githubusercontent.com/7346e09dc6719f26f082bf69557e6650a76cb0ff7d442f69f707a5a2c1c2f0ad/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d66616973616c68616e6966313226" alt="faisalhanif12"/>
