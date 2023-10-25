@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mehrfaisal111@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Faisal/Desktop/React%20Web%20Projects/Faisal-Resume.pdf](file:///C:/Users/Faisal/Desktop/React%20Web%20Projects/Faisal-Resume.pdf)
+- 📄 Know about my experiences file:///C:/Users/Faisal/Desktop/WebProjects/Faisal-Resume.pdf
 
 - ⚡ Fun fact **Avoid Math**
 
