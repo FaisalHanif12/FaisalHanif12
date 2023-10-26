@@ -30,8 +30,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalHanif12&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaisalHanif12&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&theme=dark&hide_border=true)
