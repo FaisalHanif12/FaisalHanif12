@@ -34,5 +34,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaisalHanif12&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://camo.githubusercontent.com/05f68ff34cd96b73d317b647f7ccfa37bafb7bcb69a1fb51d1b0b21ab6d24727/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d46616973616c48616e69663132267468656d653d6461726b26686964655f626f726465723d74727565)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&theme=dark&hide_border=true)
 
