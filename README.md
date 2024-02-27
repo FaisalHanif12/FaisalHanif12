@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **DosNexa Mobile App**
 
-- 🌱 I’m currently Providing services of Frontend Development 
+- 🌱 I’m currently Providing services of **Frontend Development** 
 
 - 🤝 I’m looking for help with **UIUniverse**
 
-- 💬 Ask me about **React, Boostrap**
+- 💬 Ask me about **Javascript, React, Bootstrap, Node js**
 
 - 📫 How to reach me **mehrfaisal111@gmail.com**
 
