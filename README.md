@@ -18,6 +18,17 @@
 
 - ⚡ Fun fact **Avoid Math**
 <h2 align="left">About:</h3>
+
+✨Muhammad Faisal Hanif 🚀 Front-End Developer Extraordinaire ✨
+
+🚀 Mobile | Web Frontend Developer | Experience in Collaboration, Marketing, and Development 🌟
+
+📅 With valuable years of experience in Mobile | Web development | React Framework, I've embraced a versatile role that goes beyond coding.
+
+🛠️ My journey has been a blend of frontend development excellence, collaborative teamwork, and a keen understanding of marketing strategies. This unique mix allows me to deliver holistic solutions that not only meet but exceed expectations.
+
+💡 I've honed my skills by working on a variety of projects, learning how to bridge the gap between design and functionality, and collaborating effectively with cross-functional teams.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-faisal-hanif-5b7a00247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-faisal-hanif-5b7a00247" height="30" width="40" /></a>
