@@ -24,7 +24,7 @@ Muhammad Faisal Hanif, a Front-End Developer Extraordinaire, invites you on a jo
 
 <h2 align="left">Frameworks:</h3>
 
-<ul>
+<ul style="list-style-type: none;">
   <li>✅ Bootstrap</li>
   <li>✅ Tailwind CSS</li>
   <li>✅ React.js</li>
