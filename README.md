@@ -23,6 +23,13 @@ Muhammad Faisal Hanif, a Front-End Developer Extraordinaire, invites you on a jo
 
 <h2 align="left">Frameworks:</h3>
 
+✅ Bootstrap
+✅ Tailwind css
+✅ React js
+✅ Next js 
+✅ React Native
+✅ Express js
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-faisal-hanif-5b7a00247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-faisal-hanif-5b7a00247" height="30" width="40" /></a>
