@@ -19,15 +19,7 @@
 - ⚡ Fun fact **Avoid Math**
 <h2 align="left">About:</h3>
 
-✨Muhammad Faisal Hanif 🚀 Front-End Developer Extraordinaire ✨
-
-🚀 Mobile | Web Frontend Developer | Experience in Collaboration, Marketing, and Development 🌟
-
-📅 With valuable years of experience in Mobile | Web development | React Framework, I've embraced a versatile role that goes beyond coding.
-
-🛠️ My journey has been a blend of frontend development excellence, collaborative teamwork, and a keen understanding of marketing strategies. This unique mix allows me to deliver holistic solutions that not only meet but exceed expectations.
-
-💡 I've honed my skills by working on a variety of projects, learning how to bridge the gap between design and functionality, and collaborating effectively with cross-functional teams.
+Muhammad Faisal Hanif, a Front-End Developer Extraordinaire, invites you on a journey of digital innovation and creativity. With expertise spanning Mobile and Web development, particularly within the React Framework, I've cultivated a versatile role that transcends traditional coding boundaries. My experience is a testament to a unique blend of frontend excellence, collaborative teamwork, and a deep understanding of marketing strategies. This distinctive mix empowers me to craft holistic solutions that not only meet but surpass expectations. Through a diverse array of projects, I've mastered the art of bridging the gap between design and functionality, while seamlessly collaborating with cross-functional teams. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
