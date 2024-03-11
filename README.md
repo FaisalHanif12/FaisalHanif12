@@ -5,24 +5,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalhanif12&label=Profile%20views&color=0e75b6&style=flat" alt="faisalhanif12" /> </p>
 
 - 🔭 I’m currently working on **DosNexa Mobile App**
-
 - 🌱 I’m currently Providing services of **Frontend Development** 
-
 - 🤝 I’m looking for help with **UIUniverse**
-
 - 💬 Ask me about **Javascript, React, Bootstrap, Node js**
-
 - 📫 How to reach me **mehrfaisal111@gmail.com**
-
 - 📄 Know about my experiences https://faisal-hanif.com/
-
 - ⚡ Fun fact **Avoid Math**
  
-<h2 align="left">About:</h3>
+<h2 align="left">About:</h2>
 
 Muhammad Faisal Hanif, a Front-End Developer Extraordinaire, invites you on a journey of digital innovation and creativity. With expertise spanning Mobile and Web development, particularly within the React Framework, I've cultivated a versatile role that transcends traditional coding boundaries. My experience is a testament to a unique blend of frontend excellence, collaborative teamwork, and a deep understanding of marketing strategies. This distinctive mix empowers me to craft holistic solutions that not only meet but surpass expectations. Through a diverse array of projects, I've mastered the art of bridging the gap between design and functionality, while seamlessly collaborating with cross-functional teams. 
 
-<h2 align="left">Frameworks:</h3>
+<h2 align="left">Frameworks:</h2>
 
 <ul style="list-style-type: none;">
   <li>✅ Bootstrap</li>
@@ -47,6 +41,7 @@ Muhammad Faisal Hanif, a Front-End Developer Extraordinaire, invites you on a jo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalhanif12&show_icons=true&locale=en" alt="faisalhanif12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalhanif12&" alt="faisalhanif12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalhanif12&" alt="faisalhanif12" /></p>
+
 
 
