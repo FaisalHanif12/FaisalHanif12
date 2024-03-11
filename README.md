@@ -21,6 +21,8 @@
 
 Muhammad Faisal Hanif, a Front-End Developer Extraordinaire, invites you on a journey of digital innovation and creativity. With expertise spanning Mobile and Web development, particularly within the React Framework, I've cultivated a versatile role that transcends traditional coding boundaries. My experience is a testament to a unique blend of frontend excellence, collaborative teamwork, and a deep understanding of marketing strategies. This distinctive mix empowers me to craft holistic solutions that not only meet but surpass expectations. Through a diverse array of projects, I've mastered the art of bridging the gap between design and functionality, while seamlessly collaborating with cross-functional teams. 
 
+<h2 align="left">Frameworks:</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-faisal-hanif-5b7a00247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-faisal-hanif-5b7a00247" height="30" width="40" /></a>
