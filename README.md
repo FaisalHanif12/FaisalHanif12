@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalhanif12&label=Profile%20views&color=0e75b6&style=flat" alt="faisalhanif12" /> </p>
 
-- 🔭 I’m currently working on **DosNexa Mobile App**
+- 🔭 I’m currently working at **TrueRPO**
 - 🌱 I’m currently Providing services of **Frontend Development** 
 - 🤝 I’m looking for help with **UIUniverse**
-- 💬 Ask me about **Javascript, React, Bootstrap, Node js**
+- 💬 Ask me about **Javascript, React.js, Next.js Bootstrap, Node js**
 - 📫 How to reach me **mehrfaisal111@gmail.com**
 - 📄 Know about my experiences https://faisal-hanif.com/
-- ⚡ Fun fact **Avoid Math**
+- ⚡ Fun fact **Adventure Seeker**
  
 <h2 align="left">About:</h2>
 
