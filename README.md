@@ -14,7 +14,7 @@
  
 <h2 align="left">About:</h2>
 
-Muhammad Faisal Hanif, A Front-End Developer Extraordinaire, invites you on a journey of digital innovation and creativity. With expertise spanning Mobile and Web development, particularly within the React Framework, I've cultivated a versatile role that transcends traditional coding boundaries. My experience is a testament to a unique blend of frontend excellence, collaborative teamwork, and a deep understanding of marketing strategies. This distinctive mix empowers me to craft holistic solutions that not only meet but surpass expectations. Through a diverse array of projects, I've mastered the art of bridging the gap between design and functionality, while seamlessly collaborating with cross-functional teams. 
+Muhammad Faisal Hanif, A Front-End Developer Extraordinaire, invites you on a journey of digital innovation and creativity. With expertise spanning Mobile and Web development, particularly within the React and Next Framework, I've cultivated a versatile role that transcends traditional coding boundaries. My experience is a testament to a unique blend of frontend excellence, collaborative teamwork, and a deep understanding of marketing strategies. This distinctive mix empowers me to craft holistic solutions that not only meet but surpass expectations. Through a diverse array of projects, I've mastered the art of bridging the gap between design and functionality, while seamlessly collaborating with cross-functional teams. 
 
 <h2 align="left">Frameworks:</h2>
 
