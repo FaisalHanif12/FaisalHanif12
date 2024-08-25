@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalhanif12&label=Profile%20views&color=0e75b6&style=flat" alt="faisalhanif12" /> </p>
 
-- 🔭 I’m currently working at **TrueRPO**
+- 🔭 I’m currently working at **UHA**
 - 🌱 I’m currently Providing services of **Frontend Development** 
 - 🤝 I’m looking for help with **UIUniverse**
 - 💬 Ask me about **Javascript, React.js, Next.js Bootstrap, Node js**
