@@ -1,6 +1,6 @@
 ![logo](https://github.com/FaisalHanif12/FaisalHanif12/blob/main/Banner.png) 
 <h1 align="center">Hi 👋, I'm Muhammad Faisal Hanif</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalhanif12&label=Profile%20views&color=0e75b6&style=flat" alt="faisalhanif12" /> </p>
 
