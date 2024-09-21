@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at **UHA**
 - 🌱 I’m currently Providing services of **Frontend Development** 
 - 🤝 I’m here to help you with FrontendSphere.
-- 💬 Ask me about **Javascript, React.js, Next.js Bootstrap, Node js**
+- 💬 Ask me about **Javascript, Typescript, React.js, Next.js , Node js**
 - 📫 How to reach me **mehrfaisal111@gmail.com**
 - 📄 Know about my experiences https://faisal-hanif.com/
 - ⚡ Fun fact **Adventure Seeker**
