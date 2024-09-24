@@ -27,7 +27,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-faisal-5b7a00247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-faisal-5b7a00247/" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad faisal hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad faisal hanif" height="30" width="40" /></a>   
-
 <a href="https://instagram.com/faisal_hanif_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal_hanif_0" height="30" width="40" /></a>
 </p>
 
