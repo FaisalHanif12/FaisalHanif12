@@ -35,12 +35,12 @@
 
 
 <p align="">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FaisalHanif12&hide_border=true&show_icons=true&count_private=true&theme=default&bg_color=FFFFFF&icon_color=87CEEB&title_color=87CEEB&text_color=000000">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FaisalHanif12&hide_border=true&show_icons=true&count_private=true&theme=default&bg_color=FFFFFF&icon_color=FF4500&title_color=FF4500&text_color=000000">
 </p>
 
 <p align="">
   <a href="https://github.com/FaisalHanif12">      
-    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&hide_border=true&stroke=000000&background=FFFFFF&ring=87CEEB&fire=87CEEB&sideNums=87CEEB&currStreakNum=87CEEB&sideLabels=87CEEB&dates=000000"/>
+    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&hide_border=true&stroke=000000&background=FFFFFF&ring=FF4500&fire=FF4500&sideNums=FF4500&currStreakNum=FF4500&sideLabels=FF4500&dates=000000"/>
   </a> 
 </p>
 
