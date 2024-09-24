@@ -40,6 +40,10 @@ Muhammad Faisal Hanif, A Front-End Developer Extraordinaire, invites you on a jo
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalhanif12&show_icons=true&locale=en&layout=compact" alt="faisalhanif12" /></p>
 
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=FaisalHanif12&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
 
 <p align="">
   <a href="https://github.com/FaisalHanif12">      
