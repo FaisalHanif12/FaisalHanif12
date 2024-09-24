@@ -38,9 +38,7 @@ Muhammad Faisal Hanif, A Front-End Developer Extraordinaire, invites you on a jo
 <p align="left"> <a href="https://github.com/FaisalHanif12"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,express,nodejs,mongodb,postman,ubuntu,vscode,git,github,figma"> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalhanif12&show_icons=true&locale=en&layout=compact" alt="faisalhanif12" /></p>
-
-<p align="center">
+<p align="">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FaisalHanif12&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
