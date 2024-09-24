@@ -44,7 +44,8 @@ Muhammad Faisal Hanif, A Front-End Developer Extraordinaire, invites you on a jo
 
 <p align="">
   <a href="https://github.com/FaisalHanif12">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
+    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&hide_border=true&stroke=f53b3b&background=FFFFFF&ring=FF4500&fire=f53b3b"/>
+  </a> 
 </p>
+
 
