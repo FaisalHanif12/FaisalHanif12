@@ -40,4 +40,11 @@ Muhammad Faisal Hanif, A Front-End Developer Extraordinaire, invites you on a jo
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalhanif12&show_icons=true&locale=en&layout=compact" alt="faisalhanif12" /></p>
 
 
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/FaisalHanif12">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
