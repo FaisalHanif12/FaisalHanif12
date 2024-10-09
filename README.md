@@ -40,7 +40,7 @@
 
 <p align="">
   <a href="https://github.com/FaisalHanif12">      
-    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&hide_border=true&stroke=2F4F4F&background=FFFFFF&ring=008080&fire=008080&sideNums=008080&currStreakNum=008080&sideLabels=2F4F4F&dates=2F4F4F"/>
+  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrahmadhassankhan&theme=dark&hide_border=true&stroke=f53b3b"/>
   </a> 
 </p>
 
