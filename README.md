@@ -35,7 +35,7 @@
 
 
 <p align="">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FaisalHanif12&hide_border=true&show_icons=true&count_private=true&theme=default&bg_color=FFFFFF&icon_color=008080&title_color=008080&text_color=2F4F4F">
+ <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 <p align="">
