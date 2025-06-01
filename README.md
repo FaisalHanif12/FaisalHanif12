@@ -51,7 +51,7 @@ I'm a passionate Frontend Developer with expertise in creating responsive, user-
         <b>API Integration</b>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/mobile-app.png"/><br />
+        <img src="https://img.icons8.com/plasticine/48/000000/react.png"/><br />
         <b>React Native Apps</b>
       </td>
     </tr>
@@ -94,10 +94,5 @@ I'm a passionate Frontend Developer with expertise in creating responsive, user-
 
 <br/>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FaisalHanif12&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="github trophies" />
-  </a>
-</p>
+<!-- Remove GitHub Trophies section -->
 
