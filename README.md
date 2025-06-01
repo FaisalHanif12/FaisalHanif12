@@ -13,13 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=faisalhanif12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FaisalHanif12&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="github trophies" />
-  </a>
-</p>
-
 ## 🚀 About Me
 
 I'm a passionate Frontend Developer with expertise in creating responsive, user-friendly web applications. Currently working at **UHA**, I specialize in modern JavaScript frameworks and deliver exceptional digital experiences.
@@ -96,29 +89,6 @@ I'm a passionate Frontend Developer with expertise in creating responsive, user-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak Stats" />
 </div>
 
-## 🌟 Client Testimonials
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <blockquote>
-          "Faisal delivered our project ahead of schedule with exceptional quality. His attention to detail and responsive design skills are outstanding."
-          <br/><br/>
-          <em>— Client Name, Company</em>
-        </blockquote>
-      </td>
-      <td width="50%">
-        <blockquote>
-          "Working with Faisal was a pleasure. He understood our requirements perfectly and implemented solutions that exceeded our expectations."
-          <br/><br/>
-          <em>— Client Name, Company</em>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -151,9 +121,10 @@ I'm a passionate Frontend Developer with expertise in creating responsive, user-
 
 <br/>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  <br/>
-  <p>🔥 <b>Looking to elevate your web presence? Let's create something amazing together!</b> 🔥</p>
-</div>
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FaisalHanif12&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="github trophies" />
+  </a>
+</p>
+
