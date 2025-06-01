@@ -33,11 +33,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://github.com/FaisalHanif12"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,express,nodejs,mongodb,postman,ubuntu,vscode,git,github,figma"> </a> </p>
 
-
-<p align="">
- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FaisalHanif12&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
 <p align="">
   <a href="https://github.com/FaisalHanif12">     
   <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&theme=dark&hide_border=true&stroke=f53b3b"/>
