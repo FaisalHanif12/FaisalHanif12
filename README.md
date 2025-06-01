@@ -60,12 +60,6 @@ I'm a passionate Frontend Developer with expertise in creating responsive, user-
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://github.com/FaisalHanif12">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,express,nodejs,mongodb,postman,ubuntu,vscode,git,github,figma" alt="tech stack" />
-  </a>
-</p>
-
 <div align="center">
   <h3>Frameworks & Libraries</h3>
   <p>
