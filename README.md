@@ -4,13 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalhanif12&label=Profile%20views&color=0e75b6&style=flat" alt="faisalhanif12" /> </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FaisalHanif12&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="faisalhanif12" />
-  </a>
-</p>
-
 - 🔭 I'm currently working at **UHA**
 - 🌱 I'm currently Providing services of **Frontend Development**
 - 🤝 I'm here to help you with FrontendSphere.
@@ -40,34 +33,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://github.com/FaisalHanif12"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,express,nodejs,mongodb,postman,ubuntu,vscode,git,github,figma"> </a> </p>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaisalHanif12&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalHanif12&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak Stats" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <br/>
-  <a href="https://github.com/FaisalHanif12/github-readme-activity-graph">
-    <img alt="Muhammad Faisal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalHanif12&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  <br/>
-  <p>🔥 <b>Thanks for visiting my profile! Let's connect and build something amazing together!</b> 🔥</p>
-</div>
 
 <p align="">
  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=FaisalHanif12&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
