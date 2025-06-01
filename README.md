@@ -81,34 +81,7 @@ I'm a passionate Frontend Developer with expertise in creating responsive, user-
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaisalHanif12&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalHanif12&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak Stats" />
-</div>
-
-## 📬 Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/muhammad-faisal-5b7a00247/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://fb.com/muhammad faisal hanif" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
-  </a>
-  <a href="https://instagram.com/faisal_hanif_0" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>📧 Contact Me</h3>
-  <p>Ready to discuss your project? Let's talk!</p>
-  <a href="mailto:mehrfaisal111@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
 </div>
 
 <!-- Activity Graph -->
