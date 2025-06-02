@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=faisalhanif12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-🚀 About Me
+## 🚀 About Me
 
 I'm a passionate Frontend Developer with expertise in creating responsive, user-friendly web applications. Currently working at **UHA**, I specialize in modern JavaScript frameworks and deliver exceptional digital experiences.
 
@@ -23,7 +23,7 @@ I'm a passionate Frontend Developer with expertise in creating responsive, user-
 - 📄 **Portfolio**: [faisal-hanif.com](https://faisal-hanif.com/)
 - ⚡ **Fun fact**: Adventure Seeker
 
-💼 Services I Offer
+## 💼 Services I Offer
 
 <div align="center">
   <table>
