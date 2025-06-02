@@ -23,7 +23,7 @@ I'm a passionate Frontend Developer with expertise in creating responsive, user-
 - 📄 **Portfolio**: [faisal-hanif.com](https://faisal-hanif.com/)
 - ⚡ **Fun fact**: Adventure Seeker
 
-## 💼 Services I Offer
+💼 Services I Offer
 
 <div align="center">
   <table>
