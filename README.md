@@ -1,7 +1,7 @@
 ![Banner](https://github.com/FaisalHanif12/FaisalHanif12/blob/main/Banner.png)
 
 <div align="center">
-  <h1>👋 Muhammad Faisal Hanif</h1>
+  <h1>👋 Muhammad Faisal</h1>
   <h3>Frontend Engineer</h3>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-faisal--hanif.com-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://faisal-hanif.com/)
