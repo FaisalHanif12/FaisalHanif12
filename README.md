@@ -1,4 +1,4 @@
-![Banner](https://github.com/FaisalHanif12/FaisalHanif12/blob/main/Banner.png)
+![Banner](https://github.com/FaisalHanif12/FaisalHanif12/blob/main/FaisalLinkedinBanner.png)
 
 <div align="center">
   <h1>👋 Muhammad Faisal</h1>
