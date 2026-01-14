@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Muhammad Faisal</h1>
-  <h3>Frontend Engineer</h3>
+  <h3>Software Engineer</h3>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-faisal--hanif.com-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://faisal-hanif.com/)
   [![Email](https://img.shields.io/badge/Email-mehrfaisal111%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrfaisal111@gmail.com)
@@ -15,12 +15,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate Frontend Developer with expertise in creating responsive, user-friendly web applications. Currently working at **UHA**, I specialize in modern JavaScript frameworks and deliver exceptional digital experiences.
+I'm a passionate Software Engineer with expertise in creating end-to-end and user-friendly web applications. Currently working at **UHA**, I specialize in modern JavaScript frameworks and Node js backend lanaguage. 
 
-- 💼 **Current Role**: Frontend Developer at UHA
-- 🌱 **Specialization**: Frontend Development & UI/UX Design
+- 💼 **Current Role**: Software Engineer at UHA
+- 🌱 **Specialization**: Wed development & App Developement 
 - 🔍 **Focus**: Creating seamless user experiences with modern web technologies
-- 📄 **Portfolio**: [faisal-hanif.com](https://faisal-hanif.com/)
+- 📄 **Portfolio**: [faisalhanif.work](https://faisalhanif.work/)
 - ⚡ **Fun fact**: Adventure Seeker
 
 ## 💼 Services I Offer
@@ -30,15 +30,15 @@ I'm a passionate Frontend Developer with expertise in creating responsive, user-
     <tr>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/web-design.png"/><br />
-        <b>Responsive Web Design</b>
+        <b>React.js</b>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/react-native.png"/><br />
-        <b>React Development</b>
+        <b>React Native</b>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/javascript.png"/><br />
-        <b>JavaScript Solutions</b>
+        <b>Node.js</b>
       </td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ I'm a passionate Frontend Developer with expertise in creating responsive, user-
       </td>
       <td align="center">
         <img src="https://img.icons8.com/plasticine/48/000000/react.png"/><br />
-        <b>React Native Apps</b>
+        <b>SQL / No SQL</b>
       </td>
     </tr>
   </table>
