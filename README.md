@@ -17,7 +17,7 @@
 
 I'm a passionate Software Engineer with expertise in creating end-to-end and user-friendly web applications. Currently working at **UHA**, I specialize in modern JavaScript frameworks and Node js backend lanaguage. 
 
-- 💼 **Current Role**: Software Engineer at UHA
+- 💼 **Current Role**: Software Engineer at Techxelo
 - 🌱 **Specialization**: Wed development & App Developement 
 - 🔍 **Focus**: Creating seamless user experiences with modern web technologies
 - 📄 **Portfolio**: [faisalhanif.work](https://faisalhanif.work/)
