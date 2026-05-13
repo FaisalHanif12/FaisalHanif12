@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer with expertise in creating end-to-end and user-friendly web applications. Currently working at **UHA**, I specialize in modern JavaScript frameworks and Node js backend lanaguage. 
+I'm a passionate Software Engineer with expertise in creating end-to-end and user-friendly web applications. Currently working at **Techxelo**, I specialize in modern JavaScript frameworks and Node js backend lanaguage. 
 
 - 💼 **Current Role**: Software Engineer at Techxelo
 - 🌱 **Specialization**: Wed development & App Developement 
