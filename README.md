@@ -1,92 +1,100 @@
-![Banner](https://github.com/FaisalHanif12/FaisalHanif12/blob/main/FaisalLinkedinBanner.png)
+<img src="https://raw.githubusercontent.com/FaisalHanif12/FaisalHanif12/main/FaisalLinkedinBanner.png" alt="Faisal Hanif" width="100%" />
 
 <div align="center">
-  <h1>👋 Muhammad Faisal</h1>
-  <h3>Software Engineer</h3>
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-faisal--hanif.com-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://faisalhanif.work/)
-  [![Email](https://img.shields.io/badge/Email-mehrfaisal111%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehrfaisal111@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faisal-5b7a00247/)
+  <h1>Faisal Hanif</h1>
+  <h3>Software Engineer · Web, Mobile & AI</h3>
+  <p>I build production web and mobile products with React, Next.js and Node.js — and ship AI features into them.</p>
+
+  <a href="https://faisalhanif.work/"><img src="https://img.shields.io/badge/Portfolio-faisalhanif.work-0A66C2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/faisal-software-engineer/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mehrfaisal111@gmail.com"><img src="https://img.shields.io/badge/Email-mehrfaisal111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=FaisalHanif12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faisalhanif12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate Software Engineer with expertise in creating end-to-end and user-friendly web applications. Currently working at **Techxelo**, I specialize in modern JavaScript frameworks and Node js backend lanaguage. 
+Software Engineer with 4 years of experience building web and mobile products end to end. Currently at **Techxelo**, where I work across React.js and Next.js on the web, React Native on mobile, and Node.js and Express behind them.
 
-- 💼 **Current Role**: Software Engineer at Techxelo
-- 🌱 **Specialization**: Wed development & App Developement 
-- 🔍 **Focus**: Creating seamless user experiences with modern web technologies
-- 📄 **Portfolio**: [faisalhanif.work](https://faisalhanif.work/)
-- ⚡ **Fun fact**: Adventure Seeker
+Lately most of my work has been AI integration — wiring Gemini models through OpenRouter into features people actually use, not demo.
 
-## 💼 Services I Offer
+- **Current role** — Software Engineer at Techxelo
+- **Focus** — full-stack product work: component architecture, API design, and shipping to production
+- **Recently** — an AI fitness app live on Google Play with 1,000+ users
+- **Portfolio** — [faisalhanif.work](https://faisalhanif.work/)
+
+---
+
+## Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[PureBody](https://faisalhanif.work/sass-app.html)** | AI fitness app on Google Play — 1,000+ users. Generates personalized diet and workout plans with an integrated AI trainer. | React Native · Gemini API · OpenRouter |
+| **[Soledeck](https://soledeckf.vercel.app/)** · [code](https://github.com/FaisalHanif12/Soledeck) | Footwear marketplace with JWT authentication and GraphQL, containerized with Docker. | MERN · GraphQL · Docker |
+| **[GitPulse](https://gitpulseee.netlify.app/)** · [code](https://github.com/FaisalHanif12/GitPulse) | Cohort dashboard tracking GitHub activity, scores and automated alerts. | Next.js · GitHub API |
+| **[UHA International](https://uha-international.com/)** | Multi-sector enterprise platform with an LLM chatbot and appointment booking. | Next.js · Node.js · LLM |
+| **[Financial Fusion](https://financial-fusion.netlify.app/)** · [code](https://github.com/FaisalHanif12/Dosnexa) | Personal finance ledger with offline-first sync and transaction analytics. | React Native · Firebase |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**AI Integration**
+
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-1E1E1E?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## GitHub Activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/web-design.png"/><br />
-        <b>React.js</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png"/><br />
-        <b>React Native</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png"/><br />
-        <b>Node.js</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/nextjs.png"/><br />
-        <b>Next.js Applications</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/api-settings.png"/><br />
-        <b>API Integration</b>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/plasticine/48/000000/react.png"/><br />
-        <b>SQL / No SQL</b>
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com/?user=FaisalHanif12&theme=black-ice&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalHanif12&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🛠️ Tech Stack
+---
 
 <div align="center">
-  <h3>Frameworks & Libraries</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  </p>
+  <sub>Open to Software Engineer roles — on-site, hybrid or remote.<br/>
+  <a href="mailto:mehrfaisal111@gmail.com">mehrfaisal111@gmail.com</a></sub>
 </div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalHanif12&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak Stats" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <br/>
-  <a href="https://github.com/FaisalHanif12/github-readme-activity-graph">
-    <img alt="Muhammad Faisal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalHanif12&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Remove GitHub Trophies section -->
-
