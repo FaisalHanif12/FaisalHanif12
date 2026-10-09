@@ -96,7 +96,7 @@ Lately most of my work has been AI integration — wiring Gemini models through 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=FaisalHanif12&theme=black-ice&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalHanif12&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+
 </div>
 
 ---
